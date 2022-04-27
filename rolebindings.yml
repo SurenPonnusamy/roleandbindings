@@ -5,7 +5,7 @@ items:
   metadata:
     creationTimestamp: "2022-04-08T21:41:54Z"
     name: developement-binding
-    namespace: development # This role binding allows "surendev" to read pods in the "development" namespace.
+    namespace: development 
     resourceVersion: "1516"
     uid: a62aaeca-6a8d-42d9-8c6d-089f15e51b18
   roleRef:
